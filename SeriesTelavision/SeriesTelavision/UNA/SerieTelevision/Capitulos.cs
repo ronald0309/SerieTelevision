@@ -32,5 +32,12 @@ namespace SerieTelevision
             get;
             set;
         }
+        public List<Series> Serie
+        {
+            get => default;
+            set
+            {
+            }
+        }
     }
 }

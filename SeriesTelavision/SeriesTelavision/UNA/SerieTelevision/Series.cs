@@ -22,11 +22,20 @@ namespace SerieTelevision
             get;
             set;
         }
-        public string GenereSerie
+        public string GeneroSerie
         {
             get;
             set;
         }
+
+        public List<Temporadas> Temporadas
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public List<Series> SeriesSugeridas()
         {
             throw new System.NotImplementedException();

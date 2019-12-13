@@ -32,6 +32,15 @@ namespace SerieTelevision
             get;
             set;
         }
+
+        public List<Capitulos> Capitulos
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public float PorcentageTemporada()
         {
             throw new System.NotImplementedException();
