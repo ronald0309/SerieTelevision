@@ -1,0 +1,8 @@
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\bin\Debug\SeriesTelavision.exe.config
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\bin\Debug\SeriesTelavision.exe
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\bin\Debug\SeriesTelavision.pdb
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\obj\Debug\SeriesTelavision.csprojAssemblyReference.cache
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\obj\Debug\SeriesTelavision.Properties.Resources.resources
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\obj\Debug\SeriesTelavision.csproj.GenerateResource.cache
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\obj\Debug\SeriesTelavision.exe
+D:\Documents\GitHub\SerieTelevision\SeriesTelavision\SeriesTelavision\obj\Debug\SeriesTelavision.pdb
